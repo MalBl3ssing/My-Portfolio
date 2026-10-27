@@ -153,3 +153,7 @@ I learned how to configure GitHub Pages and structure my repository so that it c
 
 **Result:**  
 I successfully published my portfolio online, making it accessible to others. This improved my understanding of deploying projects and presenting my work in a professional, real-world format.
+
+## Industry Placement — Agile Portfolio
+
+[View my Agile Portfolio of Evidence](./agile-portfolio.html)
